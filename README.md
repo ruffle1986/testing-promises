@@ -12,3 +12,4 @@ To run the tests, just type the following command in your terminal:
 ```sh
 $ npm test
 ```
+If you have great ideas, I'd love to hear about them!
